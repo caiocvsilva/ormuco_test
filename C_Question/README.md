@@ -16,9 +16,9 @@ To run the code, you need to start the server for the API and then interect with
 
 `python text_insights_api.py`
 
-Then go to `http://localhost.com:5000/search/SEARCH_TERM` to see the result of the search, based on the `SEARCH_TERM`. For the search term asked in the question as test, just type the folowing in the address bar of your browser.
+Then go to `http://0.0.0.0:5000/search/SEARCH_TERM` to see the result of the search, based on the `SEARCH_TERM`. For the search term asked in the question as test, just type the folowing in the address bar of your browser.
 
-`http://localhost.com:5000/search/keystone - Circular reference found role inference`
+`http://0.0.0.0:5000/search/keystone - Circular reference found role inference`
 
 ## Explanation
 
